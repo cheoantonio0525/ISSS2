@@ -14,6 +14,8 @@ public class Main {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        string v=0;
+        sout;
         // TODO code application logic here
     }
     
